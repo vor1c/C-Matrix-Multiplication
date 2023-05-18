@@ -7,3 +7,4 @@ void readarrayelements(int n, int a[][n]) {
         }
     }
 }
+}
